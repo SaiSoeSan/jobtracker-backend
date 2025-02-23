@@ -7,6 +7,8 @@
     <title>Job Tracker</title>
 </head>
 <body>
-    <p>Welcome to Job Tracker Backend</p>
+    <h4>Welcome to Job Tracker Backend</h4>
+    <p>This is the backend application for job tracker application</p>
+
 </body>
 </html>
